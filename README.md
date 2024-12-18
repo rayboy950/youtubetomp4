@@ -32,3 +32,5 @@
    - Enter the URL of the YouTube video you want to download.
    - Choose between MP3 or MP4 formats, and select your desired quality (for MP4).
    - Click *Download*, and the app will save the file to your computer.
+
+created by RAYBOY950 (GITHUB), u/darkkingsz (reddit) Made completley by myself 
