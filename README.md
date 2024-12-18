@@ -21,7 +21,7 @@
 
 ### Using the Executable (For Non-Developers):
 1. **Download the executable:**
-   - Go to the [Releases](https://github.com/your-username/Youtubetomp4-Web/releases) section of the GitHub repository.
+   - Go to the [Releases](https://github.com/rayboy950/Youtubetomp4/releases) section of the GitHub repository.
    - Download the `.exe` file (Windows) or corresponding executable for your operating system.
 
 2. **Run the executable:**
