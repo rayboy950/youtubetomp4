@@ -7,7 +7,7 @@
 - Select from different video quality options for MP4 downloads.
 - Easy-to-use UI with no need for technical setup.
 - Runs locally, keeping your privacy intact.
-- Lightweight application (less than 20 MB).
+- Lightweight application (less than 70 MB).
 
 ## Supported Formats:
 - **MP3**: Audio only, with adjustable bitrate.
