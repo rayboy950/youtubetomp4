@@ -33,4 +33,15 @@
    - Choose between MP3 or MP4 formats, and select your desired quality (for MP4).
    - Click *Download*, and the app will save the file to your computer.
 
+====================================
+🚨 LEGAL DISCLAIMER
+====================================
+This software is provided **strictly for personal and educational use**.  
+By using this tool, you **agree** that you will **not** use it to violate YouTube’s Terms of Service.  
+Downloading videos without the **content owner's permission** may be against YouTube’s policies.  
+The developer of this software is **not responsible** for any misuse of this application.  
+
+This project is **not affiliated with YouTube, Google, or any video platform**.  
+Use this tool **only for content that you own, have permission to download, or is in the public domain**.
+
 created by RAYBOY950 (GITHUB), u/darkkingsz (reddit) Made completley by myself 
